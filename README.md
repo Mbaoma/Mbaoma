@@ -2,15 +2,17 @@
 
 This user is interested in: 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sherif&size=40&pause=900&color=305042&center=true&vCenter=true&width=1000&height=100&lines=DevOps;Technical+Writing;Teaching+kids+tech)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sherif&size=40&pause=900&color=305042&center=true&vCenter=true&width=1000&height=100&lines=DevOps;Technical+Writing;Software+Development)](https://git.io/typing-svg)
 
 ### 👨‍💻 Skills
     💬 Python (Flask) 
     💬 Java 
-    💬 AWS 
+    💬 AWS (CloudFormation, CodeBuild, CodePipeline)
     💬 Azure 
     💬 Terraform 
-    💬 Kubernetes  
+    💬 Kubernetes 
+    💬 Docker
+    💬 CI/CD (GitHub Actions, Jenkins)
 
 <!-- Social icons section -->
 <p align="left">
