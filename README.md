@@ -24,8 +24,8 @@ I'm always excited to learn and grow, and I'm eager to tackle new challenges and
 - 🌱 I’m currently taking a deeper dive in **Kubernetes and Azure DevOps technologies**
 - 👯 I’m looking to collaborate on any open source projects
 - 📫 How to reach me **mmaryraphaella@gmail.com**
-- 📁 Check out my portfolio [https://linktr.ee/mbaoma](#)
-- 📖 Read my articles [https://omarrrz-lounge.hashnode.dev/](#)
+- 📁 Check out my [portfolio](https://linktr.ee/mbaoma)
+- 📖 Read my [articles](https://omarrrz-lounge.hashnode.dev/)
 - ⚡ Fun fact: **idek! 😎**
 
 ## 🔥 Streak stats
