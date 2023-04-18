@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sherif&size=40&pause=900&color=305042&center=true&vCenter=true&width=1000&height=100&lines=DevOps+Engineer;Technical+Writing;Software+Development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sherif&size=40&pause=900&color=305042&center=true&vCenter=true&width=1000&height=100&lines=DevOps+Engineer;Technical+Writer)](https://git.io/typing-svg)
 
 Hey there! 👋 I'm Oma, and I'm passionate about developing innovative solutions to complex problems. As a DevOps engineer with experience in Kubernetes, CI/CD pipelines, and cloud services like Azure and AWS, I love tackling technical challenges and finding creative ways to optimize deployment efficiency and reliability.
 
