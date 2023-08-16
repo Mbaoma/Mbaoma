@@ -1,10 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sherif&size=40&pause=900&color=305042&center=true&vCenter=true&width=1000&height=100&lines=DevOps+Engineer;Technical+Writer)](https://git.io/typing-svg)
 
-Hey there! 👋 I'm Oma, and I'm passionate about developing innovative solutions to complex problems. As a DevOps engineer with experience in Kubernetes, CI/CD pipelines, and cloud services like Azure and AWS, I love tackling technical challenges and finding creative ways to optimize deployment efficiency and reliability.
-
-In my most recent role, I deployed a Kubernetes app to a production environment, cutting deployment time by 2 hours while highlighting possible failure points and their mitigation. I also developed optimized deployment guides for developers, resulting in a 30% reduction in errors during deployment, and refactored codebases to increase successful deployments by 20%.
-
-Additionally, I've collaborated with teams to develop APIs for e-commerce solutions and trading applications, implemented robust CI/CD pipelines, and documented the importance of Objectives and Key Results (OKRs) in engineering for business leaders.
+Hey there! 👋 I'm Oma, a DevOps Engineer with 2+ years in IT, skilled in build engineering, configuration management, continuous integration and deployment using GitHub actions, Azure Pipelines and ArgoCD. Proficient in agile methodologies, I excel in Bash and Python scripting, managing software versions using GIT, Software Configuration Management, anc Linux System Administration. Developed and integrated an automated health monitoring system for ArgoCD Clusters
 
 I'm always excited to learn and grow, and I'm eager to tackle new challenges and make an impact in the tech industry.
 
@@ -14,7 +10,8 @@ I'm always excited to learn and grow, and I'm eager to tackle new challenges and
     💬 Azure (App Service, AKS, Azure SQL)
     💬 Ansible & Terraform 
     💬 Docker & Kubernetes 
-    💬 CI/CD (GitHub Actions, Jenkins)
+    💬 CI/CD (GitHub Actions, Jenkins, ArgoCD)
+    💬 Monitoring (Grafana, Prometheus)
 
 <!-- Social icons section -->
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/mbaoma-chioma-mary)
