@@ -1,6 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sherif&size=40&pause=900&color=305042&center=true&vCenter=true&width=1000&height=100&lines=DevOps+Engineer;Technical+Writer)](https://git.io/typing-svg)
 
-Hey there! 👋 I'm Oma, a DevOps Engineer with 2+ years in IT, skilled in build engineering, configuration management, continuous integration and deployment using GitHub actions, Azure Pipelines and ArgoCD. Proficient in agile methodologies, I excel in Bash and Python scripting, managing software versions using GIT, Software Configuration Management, anc Linux System Administration. Developed and integrated an automated health monitoring system for ArgoCD Clusters
+Hey there! 👋 I'm Oma, a DevOps Engineer with 2+ years in IT, skilled in build engineering, configuration management, continuous integration and deployment using GitHub actions, Azure Pipelines and ArgoCD. 
+
+Proficient in agile methodologies, I excel in Bash and Python scripting, managing software versions using GIT, Software Configuration Management, and Linux System Administration. 
+
+Developed and integrated an automated health monitoring system for ArgoCD Clusters
 
 I'm always excited to learn and grow, and I'm eager to tackle new challenges and make an impact in the tech industry.
 
