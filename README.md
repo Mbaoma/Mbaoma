@@ -17,12 +17,6 @@ Hi, I'm Oma, a graduate of Geosciences - Geophysics, but now a DevOps Engineer w
 
 <h2 align="center">  <strong>NOT YOUR REGULAR DEVOPS MOM!!!  </strong></h2> 
 
-
-## Socials 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/mbaoma-chioma-mary)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/mba_oma)
-[<img src="https://komarev.com/ghpvc/?username=tannaye&label=Profile%20views&color=0e75b6&style=flat" alt="mbaoma" />](https://github.com/Mbaoma/Mbaoma)
-
 ## Certifications
 Certificates help fill knowledge gaps, give hands-on experience and increase my value as an engineer. Below are some certificates I have earned:
 
@@ -46,5 +40,10 @@ Making an impact in the following communities:
 ## 🔥 Streak stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mbaoma&theme=cobalt)](https://git.io/streak-stats)
 <br>
- 
+
+## Socials 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/mbaoma-chioma-mary)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/mba_oma)
+[<img src="https://komarev.com/ghpvc/?username=tannaye&label=Profile%20views&color=0e75b6&style=flat" alt="mbaoma" />](https://github.com/Mbaoma/Mbaoma)
+
 Ganbate ✌!! <br>
