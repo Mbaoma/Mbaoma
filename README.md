@@ -1,12 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sherif&size=40&pause=900&color=305042&center=true&vCenter=true&width=1000&height=100&lines=DevOps+Engineer;Technical+Writer)](https://git.io/typing-svg)
+Hi, I'm Oma, a DevOps Engineer with experience in Platform Engineering, SRE, Technical Writing, and Public Speaking.
 
-Hey there! 👋 I'm Oma, a DevOps Engineer with 2+ years in IT, skilled in build engineering, configuration management, continuous integration and deployment using GitHub actions, Azure Pipelines and ArgoCD. 
-
-Proficient in agile methodologies, I excel in Bash and Python scripting, managing software versions using GIT, Software Configuration Management, and Linux System Administration. 
-
-Developed and integrated an automated health monitoring system for ArgoCD Clusters
-
-I'm always excited to learn and grow, and I'm eager to tackle new challenges and make an impact in the tech industry.
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Mbaoma&show_icons=true&theme=transparent" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mbaoma&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+</a>
 
 ### 👨‍💻 Skills
     💬 Python (Flask, Django) 
