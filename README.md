@@ -1,4 +1,4 @@
-Hi, I'm Oma, a DevOps Engineer with experience in Platform Engineering, SRE, Technical Writing, and Public Speaking.
+Hi, I'm Oma, a graduate of Geosciences - Geophysics, but now a DevOps Engineer with experience in Platform Engineering, SRE, Technical Writing, and Public Speaking.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Mbaoma&show_icons=true&theme=transparent" />
